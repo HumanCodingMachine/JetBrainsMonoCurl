@@ -1,2 +1,2 @@
 # JetBrainsMonoCurl
-JetBrains Mono Curk
+JetBrains Mono Curl
